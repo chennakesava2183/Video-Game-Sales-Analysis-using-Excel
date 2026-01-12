@@ -89,6 +89,6 @@ My final dashboard is in [Video_Games_Chart_Final.xlsx](https://github.com/user-
 
 ## Author
 **Chenna Kesava Kumar Bonu**  
-Aspiring Data Analyst | Transitioning from 3D Animation to Data Analytics  
+Data Analyst | Transitioning from 3D Animation to Data Analytics  
 Skills: Excel, SQL, Power BI, Python, Tableau
 
