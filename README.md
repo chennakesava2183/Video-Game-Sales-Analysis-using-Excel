@@ -23,6 +23,8 @@ This dataset contains information about Video Games from 1970-2024. It contains 
 
 ### Dashboard File
 My final dashboard is in [Video_Games_Chart_Final.xlsx](https://github.com/user-attachments/files/24339663/Video_Games_Chart_Final.xlsx)
+### Dataset File
+Dataset on which I worked (https://www.kaggle.com/datasets/ujjwalaggarwal402/video-games-dataset)
 
 ### Excel skills used - 
 - **📉 Charts**
