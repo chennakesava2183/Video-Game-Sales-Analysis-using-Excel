@@ -2,13 +2,13 @@
 
 ![Gaming Industry Insights](https://github.com/user-attachments/assets/04f75fae-e811-4d58-b276-44598326d157)
 
-## Project Overview
+## 📌 Project Overview
 This project analyzes a video game dataset to uncover insights related to sales performance, platforms, publishers, and release trends.  
 The dashboard is built using **Microsoft Excel** with pivot tables, charts, and KPI cards.
 
 The objective is to demonstrate **data cleaning, analysis, and visualization skills** relevant to a **Data Analyst role**.
 
-## Dataset Description
+## 🗂️ Dataset Description
 The dataset contains the following columns:
 - Game Title
 - Console / Platform
@@ -26,7 +26,7 @@ My final dashboard is in [Video_Games_Chart_Final.xlsx](https://github.com/user-
 ### Dataset File
 https://mavenanalytics.io/data-playground/video-game-sales
 
-### Excel skills used - 
+### ⚙️ Excel skills used - 
 - **📉 Charts**
 - **🧮 Formulas and Functions**
 - **❎ Pivot Tables**
@@ -62,7 +62,7 @@ https://mavenanalytics.io/data-playground/video-game-sales
 
 ---
 
-## Tools & Skills Used
+## ⚙️ Tools & Skills Used
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
 - Data Cleaning & Formatting
@@ -72,7 +72,7 @@ https://mavenanalytics.io/data-playground/video-game-sales
 
 ---
 
-## Insights & Observations
+## 📌 Insights & Observations
 - Certain platforms consistently outperform others in global usage.
 - Game releases peaked during specific years.
 - A small number of publishers contribute to the majority of sales.
@@ -82,15 +82,18 @@ https://mavenanalytics.io/data-playground/video-game-sales
 
 ---
 
-## How to Use
+## ✅ How to Use
 1. Download the Excel file from the repository.
 2. Open in Microsoft Excel (Desktop version recommended).
 3. Navigate to the **Dashboard** sheet to explore insights.
 
 ---
 
-## Author
+## 👤 Author
 **Chenna Kesava Kumar Bonu**  
-Data Analyst | Transitioning from 3D Animation to Data Analytics  
-Skills: Excel, SQL, Power BI, Python, Tableau
+*Data Analyst | Excel | Power BI | SQL | Python*
+
+## 📜 License
+This project is for educational and portfolio purposes.
+
 
